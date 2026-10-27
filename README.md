@@ -1,4 +1,4 @@
-# [**StaX-Net: Stackelberg Interleaved Asymmetric Network for Cross-Modality Medical Image Translation**](https://arxiv.org/abs/[ARXIV-ID])  
+# [**StaX-Net: Stackelberg Interleaved Asymmetric Network for Cross-Modality Medical Image Translation**](https://arxiv.org/abs/2610.34214)  
 
 ---
 
@@ -8,7 +8,7 @@
 <sup>b</sup> College of Health Science, VinUniversity, Hanoi, Vietnam  
 <sup>c</sup> Institute of Psychiatry, Psychology & Neuroscience, King’s College London, UK  
 
-**Link to the preprint version:** [arXiv preprint](https://arxiv.org/abs/[ARXIV-ID])
+**Link to the preprint version:** [arXiv preprint](https://arxiv.org/abs/2610.34214)
 
 **Run this implementation on Google Colab:**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amingolnari/Demo-StaX-Net/blob/main/StaX-Net.ipynb)
@@ -68,6 +68,7 @@ If our work is helpful to you, please kindly cite our paper as:
 @article{golnari2026staxnet,
   title={StaX-Net: Stackelberg Interleaved Asymmetric Network for Cross-Modality Medical Image Translation},
   author={Golnari, Amin and Sanei, Saeid},
-  journal={arXiv preprint arXiv:[ARXIV-ID]},
+  journal={arXiv preprint arXiv:2610.34214},
+  doi={https://doi.org/10.48550/arXiv.2610.34214},
   year={2026}
 }
